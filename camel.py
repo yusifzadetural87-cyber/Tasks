@@ -1,4 +1,3 @@
-# camel.py
 text = input("camelCase: ")
 snake = ""
 for ch in text:
